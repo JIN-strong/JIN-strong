@@ -13,11 +13,9 @@
 
 ## 🧭 About Me
 
-- At **[ZTE](https://www.zte.com.cn/eng/)** I work on the **AI Data Lake** stack — **[Ray](https://github.com/ray-project/ray)**, **[Daft](https://github.com/Eventual-Inc/Daft)** and **[StarRocks](https://github.com/StarRocks/starrocks)** — plus **Data Agent** (ontology modeling), building distributed infrastructure for large-scale AI workloads
-- Research interests: lightweight Ray runtime, distributed Agent deployment on Ray, and embodied-AI data pipelines
-- Currently building **[Roboray](https://github.com/JIN-strong/Roboray)** — a Ray-native data plane for embodied AI
-- M.S. in Computer Science, Zhejiang University ([ZJU-DAILY](https://github.com/ZJU-DAILY))
-- Based in Nanjing, China · work account: **[daiping8](https://github.com/daiping8)**
+- Working at ZTE, focusing on AI Data Lake ([Ray](https://github.com/ray-project/ray), [Daft](https://github.com/Eventual-Inc/Daft) and [StarRocks](https://github.com/StarRocks/starrocks)) and Data Agent (ontology modeling). Dedicated to building distributed infrastructure for large-scale AI workloads. Corporate account: @[daiping8](https://github.com/daiping8)
+- Current research interests: lightweight Ray runtime, distributed Agent deployment on Ray, embodied AI data processing pipelines
+- M.S. in Computer Science, Zhejiang University (@[ZJU-DAILY](https://github.com/ZJU-DAILY))
 
 ## 🚀 Featured Projects
 
