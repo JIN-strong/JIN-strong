@@ -1,28 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=190&section=header&text=Jiaqi%20Jin&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Distributed%20AI%20Infrastructure%20%40%20ZTE&descSize=18&descAlignY=64" alt="header" width="100%" />
-
-</div>
-
-<div align="center">
-
-  <a href="https://github.com/JIN-strong">
-
-    <img src="https://komarev.com/ghpvc/?username=JIN-strong&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-  </a>
-
-  <a href="https://github.com/JIN-strong?tab=repositories">
-
-    <img src="https://img.shields.io/badge/Focus-Distributed%20AI%20Infrastructure-2ea44f?style=flat" alt="Focus" />
-
-  </a>
-
-  <a href="https://scholar.google.com/citations?user=6SjCwW0AAAAJ&hl=zh-CN">
-
-    <img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar" />
-
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=190&section=header&text=Jiaqi%20Jin&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Distributed%20AI%20Infrastructure%20%40%20ZTE&descSize=18&descAlignY=68" alt="header" width="100%" />
 
 </div>
 
