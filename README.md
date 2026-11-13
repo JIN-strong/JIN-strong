@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=190&section=header&text=Jiaqi%20Jin&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Distributed%20AI%20Infrastructure%20%40%20ZTE&descSize=18&descAlignY=68" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=190&section=header&text=Jiaqi%20Jin&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Distributed%20AI%20Infrastructure%20%40%20ZTE&descSize=18&descAlignY=68" alt="header" width="100%" />
 
 </div>
 
