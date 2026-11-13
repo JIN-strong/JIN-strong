@@ -34,36 +34,17 @@
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🔗 [Roboray](https://github.com/JIN-strong/Roboray)
 
 A **Ray-native data plane for embodied AI** — turns raw egocentric video into training-ready LeRobot v3 datasets: stereo/mono reconstruction, multi-person hand association, metric fusion, VLM action understanding, and elastic KubeRay scaling for robot-learning data production.
-
-</td>
-<td width="50%" valign="top">
 
 ### 🔗 [ray-go-runtime](https://github.com/ZTE-AICloud/ray-go-runtime)
 
 **Go runtime for Ray** — idiomatic Go tasks, actors and objects, running on existing Ray clusters through a CGO bridge to the C++ CoreWorker. Also explores lightweight Go rewrites of selected Ray components such as the runtime\_env\_agent, log monitor and autoscaler.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🔗 [PostMan](https://github.com/JIN-strong/PostMan)
 
 **Spatio-temporal data management on Spark** — unified partition management, hybrid vector/raster indexes, and two-phase static partitioning (TPSP) for load-balanced spatial queries. *Data Science and Engineering, 2025.*
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
